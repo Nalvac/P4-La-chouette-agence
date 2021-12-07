@@ -677,7 +677,8 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;       
+    line-height: 1.4em;
 }
 
 .tight-width-whitespace {
@@ -705,14 +706,17 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     line-height: 1.4em;
+    
+    color: #333333!important;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 17px;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 700;    
+    line-height: 1.4em;
     color: #333333!important;
 }
 
@@ -753,7 +757,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
