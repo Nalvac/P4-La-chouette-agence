@@ -830,11 +830,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img.new/img.new_la-chouette-agence-banniere.3gp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img.new/img.new_image-de-presentation-light.3gp");
 }
 
 @media (max-width: 1024px) {
