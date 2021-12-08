@@ -29,8 +29,11 @@ a:hover {
 ul{
     list-style: none;
     padding: 0;
+    
 }
-
+li:hover{
+    text-decoration: underline;
+}
 .bloc {
     width: 100%;
     clear: both;
