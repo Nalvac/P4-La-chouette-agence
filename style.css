@@ -495,10 +495,12 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    padding: 3%;
 }
 
 .icon-lg {
     font-size: 60px!important;
+    padding: 3%;
 }
 
 .sm-shadow {
